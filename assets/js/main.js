@@ -73,3 +73,5 @@ loadMoreButton.addEventListener("click", () => {
     loadPokemonItens(offset, limit);
   }
 });
+
+window.addEventListener('mousemove', moveCursor)
