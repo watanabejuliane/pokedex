@@ -30,5 +30,4 @@ body {
   }
 }
 
-
-.cursor { cursor: url('cursor.png'), auto; }
+body {cursor:auto}
